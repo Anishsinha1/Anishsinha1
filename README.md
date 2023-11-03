@@ -23,8 +23,12 @@ I am actively seeking opportunities to kick-start my career in web development. 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anish-sinha-67930124a/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anish-sinha-67930124a/) <br>
 Gmail:anishsinha680@gmail.com
+
+
+#certification:
+1. React Essential Training: https://www.linkedin.com/learning/certificates/bed28cb21265e6fca670e8ddba87e55fefdd49438c244efee1816891c8f6cd9f
 
 
 # 💻 Tech Stack:
