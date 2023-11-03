@@ -1,5 +1,25 @@
 # 💫 About Me:
- I am Anish Sinha <br>  I am learning HTML,CSS , javascript,React.js<br>, Bootstrap, PYTHON (basics)<br>  Email: anishsinha680@gmail.com<br>  Github:https://github.com/Anishsinha1<br> LinkedIN:www.linkedin.com/in/anish-sinha-67930124a
+ yself:
+Enthusiastic and aspiring web developer with a strong foundation in front-end and back-end technologies. Eager to contribute to innovative and collaborative projects while continuously expanding my skills in the ever-evolving world of web development.
+
+Passion:
+I am deeply passionate about creating engaging and user-friendly websites. I am fascinated by the limitless possibilities of coding and the impact it can have on the digital landscape. My enthusiasm for problem-solving and creativity drives my commitment to delivering exceptional web experiences.
+
+Education:
+I recently graduated with a degree in BCA from Bangalore University. During my academic journey, I developed a solid understanding of HTML, CSS, JavaScript, Mongodb,Java and Programming ,SQL . I actively participated in coding projects, honing my skills and gaining hands-on experience.
+
+Learning Tech:
+I am currently enhancing my skills in React js exploring its potential to create dynamic and responsive web applications. I am enthusiastic about diving deeper into responsive design and bootstrap, excited to expand my toolkit and contribute meaningfully to projects.
+
+ Goal:
+My Interest is to leverage my passion for coding and my education to make a positive impact in the tech industry. I am eager to collaborate with experienced professionals, learn from their expertise, and apply my knowledge to real-world scenarios.
+
+Strength:
+Dedication: I am committed to continuous learning and staying updated with the latest trends and technologies in web development.
+Adaptability: I thrive in dynamic environments and am quick to adapt to new tools and methodologies.
+
+Opportunity:
+I am actively seeking opportunities to kick-start my career in web development. If you are looking for a passionate and dedicated web developer or if you have advice to offer, I would love to connect. Let's explore how my skills and enthusiasm can contribute to your projects
 
 
 ## 🌐 Socials:
