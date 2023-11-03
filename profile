@@ -1,4 +1,4 @@
-# 💫 About Me:
+
  Myself:
 Enthusiastic and aspiring web developer with a strong foundation in front-end and back-end technologies. Eager to contribute to innovative and collaborative projects while continuously expanding my skills in the ever-evolving world of web development.
 
