@@ -28,7 +28,8 @@ Gmail:anishsinha680@gmail.com
 
 #certification:
  1. HTML Essential Training: https://www.linkedin.com/learning/certificates/e7f13aff646092ada2331412baee103e78271fea630cedc2011e2e8368a694d7
- 2. React Essential Training: https://www.linkedin.com/learning/certificates/bed28cb21265e6fca670e8ddba87e55fefdd49438c244efee1816891c8f6cd9f
+ 2. CSS Essential  Training: https://www.linkedin.com/learning/certificates/20e6d35da6737f11d9a4e5b0869ceb65aec4bec674c6ca425b0a98582a6e9292
+ 3. React Essential Training: https://www.linkedin.com/learning/certificates/bed28cb21265e6fca670e8ddba87e55fefdd49438c244efee1816891c8f6cd9f
 
 
 # 💻 Tech Stack:
