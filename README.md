@@ -1,3 +1,10 @@
+![logo](https://img.freepik.com/premium-photo/conceptual-programming-coding-future-software_31965-24609.jpg?w=1380)
+ 
+ 
+ 
+
+ <br>
+ <br>
  Myself:
 Enthusiastic and aspiring web developer with a strong foundation in front-end and back-end technologies. Eager to contribute to innovative and collaborative projects while continuously expanding my skills in the ever-evolving world of web develeloper.
 Passion:
