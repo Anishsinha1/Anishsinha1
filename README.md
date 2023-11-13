@@ -22,8 +22,13 @@ I am actively seeking opportunities to kick-start my career in web development. 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anish-sinha-67930124a/) <br>
-Gmail:anishsinha680@gmail.com
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-sinha-67930124a/)
+
+ [![gmail](https://img.shields.io/badge/GMAIL-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm#inbox)
+
+[![Github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anishsinha1)
+
+
 
 
 #certification:
